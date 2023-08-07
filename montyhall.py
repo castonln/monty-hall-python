@@ -2,7 +2,6 @@
 from random import randint, choice
 
 door = [False, False, True]
-door_dict = {0: False, 1: False, 2: True}
 simulations = int(input("Simulations to run: "))
 
 
